@@ -1,0 +1,17 @@
+mn đọc sơ qua để nắm code 
+B1: down search.zip, multiAgents.zip trên slide bài giảng
+B2: Các tập tin bạn sẽ chỉnh sửa: search.py, multiAgents.py
+B3: Nơi chứa tất cả các thuật toán tìm kiếm searchAgents.py
+pacman.py chạy chính
+game.py
+Logic hoạt động Pacman. Tệp này mô tả một số loại hỗ trợ như AgentState, Agent, Direction, and Grid.
+util.py
+Có Stack, Queue...
+4 phần cần làm depth-first, breadth-first, uniform cost, and A* search algorithms. 
+Files you'll edit function:
+a. breadthFirstSearch, depthFirstSearch, uniformCostSearch.
+b. A*Search, CornersProblem 
+c. cornersHeuristic,
+d. FoodSearchProblem, 
+e. findPathToClosestDot 
+f. ReflexAgent
